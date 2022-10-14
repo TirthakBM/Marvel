@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "955772224479",
+    "project_id": "marvel-instaclone",
+    "storage_bucket": "marvel-instaclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955772224479:android:49af0e8c228190be147a6a",
+        "android_client_info": {
+          "package_name": "com.example.marvel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955772224479-f17ms7q62a0ouilnv3na37t3jkht2l2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCABY7WYF_-TSCxdmJL8m6BYpnVkuAwZL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955772224479-f17ms7q62a0ouilnv3na37t3jkht2l2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
